@@ -1,0 +1,8 @@
+# commentaire
+# ignorer les fichiers .class
+*.class
+*.z
+# ignorer les fichiers dans target
+target/*
+# sauf les fichiers .adoc
+!target/*.adoc
