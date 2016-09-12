@@ -2,6 +2,7 @@
 # ignorer les fichiers .class
 *.class
 *.z
+.md
 # ignorer les fichiers dans target
 target/*
 # sauf les fichiers .adoc
